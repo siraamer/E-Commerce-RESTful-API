@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Intex Single",
+    "slug": "Intex Single",
+    "quantity": 10,
+    "sold": 25,
+    "price": 112,
+    "priceAfterDiscount": 100,
+    "description": "Your perfect pack for everyday.",
+    "category": "62b026d33417fa9904881c25",
+    "imageCover": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "ratingsAverage": 4.3,
+    "ratingsQuantity": 20
+  },
+  {
+    "title": "SamSung A71",
+    "slug": "SamSung A71",
+    "quantity": 20,
+    "sold": 30,
+    "price": 7200,
+    "priceAfterDiscount": 20,
+    "description": "good moblie in my opinon so you should pay.",
+    "category": "62b026d33417fa9904881c26",
+    "imageCover": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 23
+  },
+  {
+    "title": "Lenovo",
+    "slug": "Lenovo201",
+    "quantity": 20,
+    "sold": 75,
+    "price": 19200,
+    "description": "Christmas Day & Too Short Product Description!",
+    "category": "62b026d33417fa9904881c27",
+    "imageCover": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "ratingsAverage": 4.0,
+    "ratingsQuantity": 70
+  },
+  {
+    "title": "Call of Duty",
+    "slug": "Call-of-Duty",
+    "quantity": 100,
+    "sold": 101,
+    "price": 15.99,
+    "description": "product description.Too Short Product Description!.",
+    "category": "62b026d33417fa9904881c28",
+    "imageCover": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 98
+  },
+  {
+    "title": "Plate",
+    "slug": "Plate-12",
+    "quantity": 100,
+    "sold": 14,
+    "price": 695,
+    "description": "From our Legends for protection. Too Short Product Description!",
+    "category": "62b026d33417fa9904881c29",
+    "imageCover": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 12
+  }
+]
